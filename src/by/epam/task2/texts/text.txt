@@ -1,0 +1,5 @@
+A single crystal or monocrystalline solid is a material in which the crystal lattice of the entire sample is continuous and unbroken to the edges of the sample, with no grain boundaries.
+The absence of the defects associated with grain boundaries can give monocrystals unique properties, particularly mechanical, optical and electrical, which can also be anisotropic, depending on the type of crystallographic structure.
+These properties, in addition to making them precious in some gems, are industrially used in technological applications, especially in optics and electronics.
+Because entropic effects favor the presence of some imperfections in the microstructure of solids, such as impurities, inhomogeneous strain and crystallographic defects such as dislocations, perfect single crystals of meaningful size are exceedingly rare in nature, and are also difficult to produce in the laboratory, though they can be made under controlled conditions.
+On the other hand, imperfect single crystals can reach enormous sizes in nature: several mineral species such as beryl, gypsum and feldspars are known to have produced crystals several metres across.
